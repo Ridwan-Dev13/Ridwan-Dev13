@@ -33,7 +33,6 @@ To grow my skills step by step and create new opportunities for work or business
 ---
 
 ## 📫 Contact
-- IG: [@rdwannal](https://instagram.com/rdwannal)
 - Email: [rdxwnn88@gmail.com](mailto:rdxwnn88@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ridwan-Dev13&color=blue)
